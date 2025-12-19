@@ -1,25 +1,99 @@
-# Even And Odd 
+# user input 
+# a = int(input("Enter a Number : "))
 
-num=int(input("enter a no."))
-def find_eo(num):
-    if num%2==0:
-        print("its an even no")
-    else:
-        print("its a odd no")
+# i = 1
+# while(i <= a):
+#     num = i
+#     # increase order 
+#     while(num <= a):
+#         print("*" ,end = " ")
+#         num = num + 1
 
-find_eo(num)
-
-
-
-
+#     print(end = "\n")
+#     i = i+1
 
 
-# Positive number 
-num1=int(input("enter a no."))
-def find_p(num1):
-    if num1%2==0:
-        print("its an positive no")
-    else:
-        print("its a nagetive no")
+# *
+# **
+# ***
+# ****
 
-find_p(num1)
+
+# user = int(input("Enter a Number : "))
+# i=1
+# while(i<=user):
+#     j=1
+#     while(j<=i):
+#         print("*",end=" ")
+#         j=j+1
+#     print()
+#     i=i+1
+
+
+
+def sumtwonumber( a , b):
+    c = a+b
+    print(c)
+
+
+# x = int(input("Enter a number : "))
+# y = int(input("Enter a number : "))
+# sumtwonumber( x , y )
+
+# def meraNaam(naam):
+#     print("My name is" , naam)
+
+
+# # sumtwonumber()
+# joker = str(input("enter a name : "))
+# meraNaam(joker)
+
+
+
+
+
+
+
+
+
+a  =  15
+
+def mynum(a):
+    b = 7
+    # print(b)
+    
+
+mynum(a)
+print(b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
